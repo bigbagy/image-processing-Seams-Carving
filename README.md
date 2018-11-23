@@ -1,1 +1,1 @@
-#replicate seam carving paper by Shai Avidan and Ariel Shamir
+replicate seam carving paper by Shai Avidan and Ariel Shamir
