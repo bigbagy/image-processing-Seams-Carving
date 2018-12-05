@@ -118,6 +118,3 @@ def scaleTo8Bit(image, displayMin = None, displayMax = None):
     imageOut = (cf * image).astype(np.uint8)
     return imageOut
 
-# img = cv2.imread("venice.jpg")
-# final = resize(img, 100)
-# cv2.imwrite("veniceOut.jpg", final)
