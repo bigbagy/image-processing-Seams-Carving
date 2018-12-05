@@ -1,2 +1,1 @@
-# Replicate Seam Carving for Content-Aware Image Resizing paper by Shai Avidan and Ariel Shamir
-Seams Carving Paper:  https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
+Seam carving is an algorithm used for content-aware image resizing. My implementation for seam carving is written in Python, and uses the Numpy library, as well as OpenCV.
