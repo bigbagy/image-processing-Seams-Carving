@@ -1,9 +1,6 @@
 import sys
-
 import cv2
-
 import numpy as np
-
 import matplotlib.pyplot as plt
 
 #replicate seam carving paper by Shai Avidan and Ariel Shamir
