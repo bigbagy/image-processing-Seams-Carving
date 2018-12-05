@@ -4,6 +4,6 @@ This implementation of seam carving is written in Python using Numpy and OpenCV 
 
 seams removal:
 
-![alt text](https://github.com/vivianhylee/seam-carving/raw/master/example/image05_video.gif
+![alt text](https://github.com/bigbagy/image-processing-Seams-Carving/blob/master/seam%20removal.gif
 )
 
