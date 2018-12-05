@@ -2,7 +2,7 @@ Seams carving allows us to perform "content-aware" image resizing for both reduc
 
 This implementation of seam carving is written in Python using Numpy and OpenCV library.
 
-seams removal:
+example seams removal:
 
 ![alt text](https://github.com/bigbagy/image-processing-Seams-Carving/blob/master/seam%20removal.gif
 )
