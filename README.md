@@ -1,4 +1,4 @@
-This is a replication of the Seams Carving method in research paper by Shai Avidan and Ariel Shamir: http://www.faculty.idc.ac.il/arik/SCWeb/imret/index.html
+This is a replication of research paper by Shai Avidan and Ariel Shamir on Seams Carving: http://www.faculty.idc.ac.il/arik/SCWeb/imret/index.html
 
 Seams Carving allows us to perform "content-aware" image resizing for both reduction/expansion and intelligent object removal. It allows image to be resized without losing or distorting meaningful content from scaling, sometimes called "content aware" resizing and removal.
 
